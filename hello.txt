@@ -2,3 +2,4 @@ drunoob.com
 hhhhh
 111111
 hello hello!!
+验证ssh免密登录来pull
